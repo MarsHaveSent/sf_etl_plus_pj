@@ -21,6 +21,10 @@ project/
 5. Заполнить данные по примеру secrets.env.example в свой файл .env
 6. Подгрузить\заполнить credintials.json файл в папке config по примеру из credentials.json.example
 
+## Важно
+Для корректной работы с Google Sheets необходимо выдать вашему !cервисному аккаунту! 
+права на !редактирование! вашей таблицы в Google Sheets.
+
 ## Запуск
 
 ```bash
